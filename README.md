@@ -4,7 +4,9 @@ A responsive and modern web application developed as part of the **Cerso Web Dev
 
 ## 🌐 Live Demo
 
-🔗 **Netlify:** cersolandingpage.netlify.app
+## **Netlify:**   
+
+🔗    cersolandingwebsitepage.netlify.app
 
 ## 📂 GitHub Repository
 
